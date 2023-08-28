@@ -46,5 +46,3 @@ backup/
 
 # Ignore specific project files
 project-specific-file.txt
-
-seceret.json
